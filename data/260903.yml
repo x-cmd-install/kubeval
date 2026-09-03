@@ -1,11 +1,13 @@
 about:
-  description: Validate your Kubernetes configuration files, supports multiple Kubernetes versions
+  description:
+  |
+    Validate your Kubernetes configuration files, supports multiple Kubernetes versions
   license: NOASSERTION
   homepage: https://kubeval.com
   head: fe0a7c2
   archived: false
   latestVersion: v0.16.1
-  collectedAt: 2026-09-03T05:12:29Z
+  collectedAt: 2026-09-03T22:37:47Z
 timeline:
   created: 2017-06-25
   lastCommit: 2022-10-11
@@ -24,7 +26,7 @@ language:
   Makefile: 1881
   PowerShell: 1266
   Dockerfile: 276
-totalLine: 59840
+totalBytes: 59840
 recent:
   last30d:
     since: 2026-08-04
