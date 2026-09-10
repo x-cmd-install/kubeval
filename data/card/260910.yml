@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.16.1"
   latestRelease: "v0.16.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:57:15Z
+  collectedAt: 2026-09-10T20:23:04Z
 timeline:
   created: 2017-06-25
   lastCommit: 2022-10-11
@@ -87,7 +87,7 @@ total:
   commit: 304
 ---
 path: /home/runner/.x-repo/github.com/instrumenta/kubeval
-collectedAt: 2026-09-10T05:57:16Z
+collectedAt: 2026-09-10T20:23:04Z
 loc:
   Go:
     code: 1437
