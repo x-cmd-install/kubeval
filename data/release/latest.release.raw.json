@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 460,
       "digest": null,
-      "download_count": 26857,
+      "download_count": 26873,
       "created_at": "2021-03-30T15:17:11Z",
       "updated_at": "2021-03-30T15:17:12Z",
       "browser_download_url": "https://github.com/instrumenta/kubeval/releases/download/v0.16.1/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2996135,
       "digest": null,
-      "download_count": 98794,
+      "download_count": 98798,
       "created_at": "2021-03-30T15:17:15Z",
       "updated_at": "2021-03-30T15:17:17Z",
       "browser_download_url": "https://github.com/instrumenta/kubeval/releases/download/v0.16.1/kubeval-darwin-amd64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 2881706,
       "digest": null,
-      "download_count": 11132951,
+      "download_count": 11140324,
       "created_at": "2021-03-30T15:17:12Z",
       "updated_at": "2021-03-30T15:17:15Z",
       "browser_download_url": "https://github.com/instrumenta/kubeval/releases/download/v0.16.1/kubeval-linux-amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 2824194,
       "digest": null,
-      "download_count": 621,
+      "download_count": 623,
       "created_at": "2021-03-30T15:17:11Z",
       "updated_at": "2021-03-30T15:17:17Z",
       "browser_download_url": "https://github.com/instrumenta/kubeval/releases/download/v0.16.1/kubeval-windows-386.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 2919374,
       "digest": null,
-      "download_count": 41166,
+      "download_count": 41176,
       "created_at": "2021-03-30T15:17:11Z",
       "updated_at": "2021-03-30T15:17:17Z",
       "browser_download_url": "https://github.com/instrumenta/kubeval/releases/download/v0.16.1/kubeval-windows-amd64.zip"
